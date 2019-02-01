@@ -1,0 +1,11 @@
+{
+  "libs": [
+    "browser",
+    "ecmascript"
+  ],
+    "plugins": {
+    "doc_comment": null,
+    "es_modules": { },
+    "webpack": { }
+  }
+}
